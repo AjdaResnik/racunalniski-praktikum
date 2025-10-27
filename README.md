@@ -12,6 +12,7 @@
 - Izbriši vrstico: Ctrl+Shift+K
 - Odpri novo datoteko: Ctrl+N
 - Odpri novo okno: Ctrl+Shift+N
+- Shrani datoteko: Ctrl+S
 
 <!-- 2. nivojski razdelek -->
 ## Izvorna koda
